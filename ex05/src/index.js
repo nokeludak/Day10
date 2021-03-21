@@ -14,5 +14,5 @@ function myFunction(name) {
 console.log(myFunction("Paragon"));
 // Only change code above this line
 
-myFunction();
+myFunction("Paragon");
 module.exports = { school, myFunction };
